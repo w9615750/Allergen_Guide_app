@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912233435304",
+    "project_id": "allergen-f9674",
+    "storage_bucket": "allergen-f9674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912233435304:android:f6de54634939380dd3329d",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.w9615750"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfB7JwWyGm6oUz60lrP9wjfFjLylO9A7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
